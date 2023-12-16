@@ -1,0 +1,17 @@
+dokter
+
+0. error input
+1. dr. Ariana       (12345678-password) -> (nomoridentitas-password)
+2. dr. Jefri        (69420-pass)
+3. dr. Rodia        (666-word)
+4. dr. Jessica      (42069-sandi)
+5. dr. Monalisa     (3000-katasandi)
+6. dr. Farhan       (9000-kodesandi)
+7. dr. Rama         (9291-indonesia)
+8. dr. Aldiansyah   (3090-rtx)
+9. dr. Tia          (1650-gtx)
+10. dr. Qayla       (1337-java)
+
+apoteker
+1. Akun1            300-password
+2. Akun2            69-420
